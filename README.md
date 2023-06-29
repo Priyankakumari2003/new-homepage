@@ -1,2 +1,2 @@
 # new-homepage
-creating a web page using HTML, Intermediate CSS (grid)
+creating a new homepage using HTML, Intermediate CSS (grid)
